@@ -1,0 +1,15 @@
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.exe
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.deps.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.runtimeconfig.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\bin\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.pdb
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.AssemblyInfoInputs.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.AssemblyInfo.cs
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.csproj.CoreCompileInputs.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.sourcelink.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q1_Lists.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.pdb
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\Non-Primitive Data Types_Q1_Lists.genruntimeconfig.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q1_Lists\Non-Primitive Data Types_Q1_Lists\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q1_Lists.dll

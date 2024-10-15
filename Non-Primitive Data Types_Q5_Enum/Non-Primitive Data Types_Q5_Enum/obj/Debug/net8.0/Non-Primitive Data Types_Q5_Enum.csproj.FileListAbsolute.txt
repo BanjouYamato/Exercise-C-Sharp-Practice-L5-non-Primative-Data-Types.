@@ -1,0 +1,15 @@
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.AssemblyInfoInputs.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.AssemblyInfo.cs
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.csproj.CoreCompileInputs.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.sourcelink.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.exe
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.deps.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.runtimeconfig.json
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\bin\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.pdb
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q5_Enum.dll
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.pdb
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\Non-Primitive Data Types_Q5_Enum.genruntimeconfig.cache
+C:\Users\haida\source\repos\C-Sharp-Practice-L5-non-Primative-Data-Types\Non-Primitive Data Types_Q5_Enum\Non-Primitive Data Types_Q5_Enum\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q5_Enum.dll
